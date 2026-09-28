@@ -1,0 +1,9 @@
+# Streamlit settings for this project only
+
+[server]
+headless = true        # don't ask for an email or try to open a browser by itself
+address = "localhost"  # only this computer can open the app (not others on your Wi-Fi)
+port = 8501
+
+[browser]
+gatherUsageStats = false  # don't send usage statistics

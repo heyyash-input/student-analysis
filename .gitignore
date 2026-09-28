@@ -1,0 +1,14 @@
+# Virtual environment (large, only works on this computer)
+.venv/
+
+# Python cache files
+__pycache__/
+
+# Claude preview settings (not part of the project)
+.claude/
+
+# API keys - never upload
+.streamlit/secrets.toml
+
+# Job posting (not part of the project)
+V4 Job Description.txt
